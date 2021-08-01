@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @debora-studies
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning the framework Vue.js 3
+- 📫 My professional profile is @DeboraTaveiraa
